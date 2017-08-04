@@ -4,10 +4,7 @@
 *  Differential Robot using H-Bridget L293D
 *   
 *  Voice activation and response
-*
-*  Developed by Marcelo Rovai on 31March17
-*  Visit my blog: https://MJRoBot.org 
-*   
+*  
 ************************************************************************************/
 #include <ESP8266WiFi.h>
 WiFiClient client;
